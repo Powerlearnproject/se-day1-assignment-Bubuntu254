@@ -1,0 +1,61 @@
+Explain what software engineering is and discuss its importance in the technology industry.
+ - Software engineering can be defined as a rational and systematic approach towards the design, creation, use and updates of software. It entails the approach applied to software development through use of engineering principles with the aim of achieving timely delivery of efficient software systems.
+- Software engineering is a critical discipline in the technology industry since it ensures that the software products developed are of high quality, and are also reliable, efficient, reusable and durable and within a reasonable time span and cost. It deals with this combinatorial explosion and the dynamic nature of software systems in an organized manner.
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+- Milestone 1: The Birth of Software Engineering (1968)
+The term  “Software Engineering” was given at the NATO Software Engineering conference in 1968, this marked the acknowledgement of the fact that Software development required a systemised approach because of the rise in its complexity and hence its importance.
+- Milestone 2: The Introduction of Object-Oriented Programming (OOP) (1980s)
+OOP fundamentally changed the way in which software was designed by encouraging the use of objects which are packages of data together with instructions that can be performed on those data. This approach made it possible to make software to be more modular, easier to maintain and those that were developed could be reused.
+- Milestone 3: The Rise of Agile Methodologies (2001)
+The Agile Manifesto that was issued in 2001 provided a number of guidelines that were essential for the so-called iterative and incremental development of software. This shift made it possible for teams to respond to change and deliver software in incremental small quantities.
+
+List and briefly explain the phases of the Software Development Life Cycle.
+- Requirement Analysis: Ensuring that the need of the stakeholders in the entity is gathered and analyzed in order to determine what the system is required to do.
+- Design: Designing the establishment and the format of the software system’s infrastructure and data structure and the interfaces to these systems.
+- Implementation (Coding): The raw process of writing the actual code in consideration of the designed specifications.
+- Testing: Ensure that it is functional and that it is fully debugged.
+- Deployment: Getting the software into the hands of the users.
+- Maintenance: Regular upgrades of the software and correction of problems that may surface from time to time.
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+- Waterfall Methodology:
+ A phase-by-phase process in which the different phases have to be carried out in order before the project can proceed to the next phase. The essence of phased implementation is that once a phase is fully implemented it is unlikely that much can be done to reverse the change.
+ Example Scenario: Waterfall is suitable for the projects which have fewer probable changes in the requirements, for example, government contracts, large industrial systems.
+- Agile Methodology:
+Agile Methodology is an iterative approach for developing software in small, incremental cycles. It supports continual feedback and adaptation.
+Example Scenario: Agile is suitable for projects with changing requirements, such as software companies or web apps that rely heavily on client feedback.
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+- Software Developer: Involved in the creation of the source code for software as well as developing, debugging and updating it. It targets designers and product managers and creates features intended to fulfill the users’ requirements.
+- Quality Assurance (QA) Engineer: Relies on checking the features of the software to confirm they are right and correct from any bugs before release. They create test plans, manufacture test scenarios and perform many different sorts of testing (individual, joint, etc. ).
+- Project Manager: Coordinates from the planning phase of a project to the completion of the project: monitoring and enforcement of the conformity to schedule, size, and finances. They handle resources, time and Reporting & communication to all the stakeholders.
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+- IDEs: Arrange the possibility to write the code, debug it and manage it in one space. They mainly comprise of attributes for instance; syntax highlighting, code completion, and debugging integrated. Examples: Visual Studio Code, IntelliJ IDEA.
+- VCS: Facilitative for checking updates in the code and enabling effective communication between developers and organizing various versions of the software to be produced. They enable several developers to work on a single project and not cause issues with other developers’ copies of the work. Examples: Git, Subversion.
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+- Challenge 1: Managing Complexity
+Strategy: Yes, abide by the concept of modularity, and disintegrate the entire system into easy to comprehend segments.
+- The second challenge is to be able to manage rapid technological changes that come with this form of spirit.
+Strategy: The use of education and training for practical experience, the attendance of more conferences, and the awareness of the current market trends.
+- Professionals can work in coalitions but face the communication problems in teams that can be defined as the third challenge.
+Strategy: Establish communication in the project and use tools to facilitate communication and address the team members in group meetings.
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+- Unit Testing: A process of verifying the individual parts of the software in isolation in order to confirm that each of them performs according to the specified requirements.
+- Integration Testing: If integration means checking how the various parts of the software work together, then testing can be described as the activity that examines the interactions between elements of the software.
+- System Testing: Checking the system to confirm that, during its operation, it will perform to the required standards.
+- Acceptance Testing: A form of testing aimed at establishing if the software developed is acceptable and can be released to the customer.
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+- It is the engineering of introducing and fine tuning inputs or Stimuli that elicits the best responses from AI models. It entails organizing questions with a view of eliciting right and proper responses from the AI derived from the questions asked.
+- To engage with AI models especially GPT quality improves with the quality of the prompt given to the model. If one has to deal with complex or ambiguous scenarios, prompt engineering has to be precise to elicit the right response from the AM.
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Vague Prompt: "Tell me about the weather."
+- Improved Prompt: "Provide the current weather conditions in Kiambu Town, including temperature, humidity, and any weather advisories."
+- Explanation: The improved prompt is more effective because it is clear, specific, and concise. It tells the AI exactly what information is needed (current weather conditions), where (Kiambu Town), and what details to include (temperature, humidity, and advisories). This reduces ambiguity and increases the likelihood of receiving a useful response.
